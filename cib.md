@@ -1,0 +1,4 @@
+- Use English
+- Use a capital
+- Don't use punctuation marks
+- Think of: This comit will ...
